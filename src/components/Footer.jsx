@@ -30,15 +30,15 @@ const Footer = () => {
 <div className=" flex flex-col space-y-2 text-sm w-45">
   <h1 className='text-sm font-bold'>SOCIAL MEDIA</h1>
   <a href="https://www.instagram.com/" target="_blank" className='text-black underline-offset-4 underline  text-lg  font-serif hover:text-red-600'>Instagram</a>
-  <a href="https://www.linkedin.com/in/md-hasnain-037781366/" target="_blank" className='text-black underline-offset-4 underline  text-lg font-serif'>Linkedin </a>
-  <a href="https://x.com/hasnain01k" target="_blank" className='text-black underline-offset-4 underline  text-lg font-serif' >Twitter</a>
-  <a href="https://www.youtube.com/@CodeWithPavilion" target="_blank" className='text-black underline-offset-4 underline  text-lg font-serif'>YouTube</a>
-  <a href="https://dcpbtech.com/" target="_blank" className='text-black underline-offset-4 underline  text-lg font-serif'>Website</a>
+  <a href="https://www.linkedin.com/in/md-hasnain-037781366/" target="_blank" className='text-black underline-offset-4 underline  text-lg font-serif hover:text-red-600'>Linkedin </a>
+  <a href="https://x.com/hasnain01k" target="_blank" className='text-black underline-offset-4 underline  text-lg font-serif hover:text-red-600' >Twitter</a>
+  <a href="https://www.youtube.com/@CodeWithPavilion" target="_blank" className='text-black underline-offset-4 underline  text-lg font-serif hover:text-red-600'>YouTube</a>
+  <a href="https://dcpbtech.com/" target="_blank" className='text-black underline-offset-4 underline  text-lg font-serif hover:text-red-600'>Website</a>
 
 </div> 
 
 
-                       {/*  ......Contact Me......   */}
+{/*  ......Contact Me......   */}
 <div className=" flex flex-col space-y-2 text-sm w-auto">
   <h1 className='text-sm font-bold'>CONTACT US </h1>
   <p className='text-black text-lg font-serif'>Email: <spna>khanhasnainali21@gmail.com</spna></p>
