@@ -6,9 +6,9 @@ const MainProject = () => {
     <h1 className='font-semibold'>My Projects</h1>
 <hr class="border-t-[1px] border-[#3B0270] my-4" />
 <section className="max-w-7xl mx-auto p-4">
-  <h2 className="text-3xl font-bold mb-6">My SEO Projects</h2>
+  {/* <h2 className="text-3xl font-bold mb-6">My SEO Projects</h2> */}
 
-  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 h-6 w-6">
     {/* Project Card */}
     <article className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
       <img
@@ -31,7 +31,7 @@ const MainProject = () => {
         </a>
         <a
           href="seo-screenshot.png"
-          target="_blank"
+          target="_blank" 
           className="text-blue-600 hover:underline"
         >
           Screenshot

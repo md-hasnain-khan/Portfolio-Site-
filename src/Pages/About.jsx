@@ -1,6 +1,7 @@
 import React from 'react';
 import bio from '../assets/bio.jpg'; 
 import MainProject from '../Others/MainProject';
+import Tools from '../Others/Tools';
 
 const About = () => {
   return (
@@ -84,6 +85,7 @@ Outside the world of code and algorithms, I find comfort in a good cup of tea â€
 <br></br> 
 
         <MainProject/>
+        <Tools/>
         </div>
 
       </div>
@@ -95,7 +97,6 @@ Outside the world of code and algorithms, I find comfort in a good cup of tea â€
         <div className="text-gray-700">
         </div>
       </div>
-
 
 
     </div>
