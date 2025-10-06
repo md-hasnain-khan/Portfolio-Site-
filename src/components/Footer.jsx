@@ -41,8 +41,8 @@ const Footer = () => {
 {/*  ......Contact Me......   */}
 <div className=" flex flex-col space-y-2 text-sm w-auto">
   <h1 className='text-sm font-bold'>CONTACT US </h1>
-  <p className='text-black text-lg font-serif'>Email: <spna>khanhasnainali21@gmail.com</spna></p>
-  <p className='text-black text-lg font-serif'>Mob: <spna>91+9068328724</spna></p>
+  <p className='text-black text-lg font-serif'>Email: <span>khanhasnainali21@gmail.com</span></p>
+  <p className='text-black text-lg font-serif'>Mob: <span>91+9068328724</span></p>
   <p className='text-black text-lg font-serif'>Location:</p>
 
           <iframe

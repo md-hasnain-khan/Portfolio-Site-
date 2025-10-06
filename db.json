@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "React Tutorial",
+      "shortDesc": "Learn React step by step.",
+      "image": "/images/card1.jpeg",
+      "previewUrl": "https://example.com/preview1",
+      "sourceUrl": "https://github.com/example/repo1"
+    },
+    {
+      "id": 2,
+      "title": "Tailwind Card",
+      "shortDesc": "Build responsive cards with Tailwind.",
+      "image": "/images/card2.jpeg",
+      "previewUrl": "https://example.com/preview2",
+      "sourceUrl": "https://github.com/example/repo2"
+    },
+    {
+      "id": 2,
+      "title": "Tailwind Card",
+      "shortDesc": "Build responsive cards with Tailwind.",
+      "image": "/images/card3.jpg",
+      "previewUrl": "https://example.com/preview2",
+      "sourceUrl": "https://github.com/example/repo2"
+    },
+    {
+      "id": 2,
+      "title": "Tailwind Card",
+      "shortDesc": "Build responsive cards with Tailwind.",
+      "image": "/images/card4.jpeg",
+      "previewUrl": "https://example.com/preview2",
+      "sourceUrl": "https://github.com/example/repo2"
+    },
+    {
+      "id": 2,
+      "title": "Tailwind Card",
+      "shortDesc": "Build responsive cards with Tailwind.",
+      "image": "/images/card5.jpeg",
+      "previewUrl": "https://example.com/preview2",
+      "sourceUrl": "https://github.com/example/repo2"
+    },
+    {
+      "id": 2,
+      "title": "Tailwind Card",
+      "shortDesc": "Build responsive cards with Tailwind.",
+      "image": "/images/card2.jpeg",
+      "previewUrl": "https://example.com/preview2",
+      "sourceUrl": "https://github.com/example/repo2"
+    },
+    {
+      "id": 2,
+      "title": "Tailwind Card",
+      "shortDesc": "Build responsive cards with Tailwind.",
+      "image": "/images/card2.jpeg",
+      "previewUrl": "https://example.com/preview2",
+      "sourceUrl": "https://github.com/example/repo2"
+    }
+  ]
+}
